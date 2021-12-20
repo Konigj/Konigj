@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Konigj
-- 👀 I’m interested in learning code.
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m a Front-end Developer!
 - 💞️ I’m looking to work as a remote developer
-- 📫 How to reach me jkonig712@gmail.com
+- 📫 How to reach me juan@juanrey.co
 
