@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Konigj - Principal Frontend Developer @ Itlookssimple
 - - Check my portfolio juanrey.co
-- 🌱 I’m a Front-end Developer with intermedia experience with backend using node.
+- 🌱 I’m a Front-end Developer.
 - 📫 How to reach me juan@juanrey.co
